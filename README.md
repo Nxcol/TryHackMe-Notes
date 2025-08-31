@@ -15,6 +15,3 @@ dirb http://example.com
 
 # With custom wordlist
 dirb http://example.com /usr/share/wordlists/common.txt
-
-# Shodan Practice Report – Apache Servers in US
-fhihh
