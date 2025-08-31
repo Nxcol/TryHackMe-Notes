@@ -46,4 +46,6 @@ Identify exposed versions, note potential risks, and provide recommendations.
 
 ## 📝 Notes
 - Data gathered only via Shodan’s search engine (no interaction with systems).
-- Purpose: Learning and practicing asset discovery and vulnerability assessment.```
+- Purpose: Learning and practicing asset discovery and vulnerability assessment.
+```
+
