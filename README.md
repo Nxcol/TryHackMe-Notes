@@ -49,3 +49,28 @@ Identify exposed versions, note potential risks, and provide recommendations.
 - Purpose: Learning and practicing asset discovery and vulnerability assessment.
 ```
 
+## 🦠 Virus Total ##
+
+## 📖 What is it?
+VirusTotal is a free tool to check files, URLs, and IPs against multiple antivirus engines.  
+It’s used in cybersecurity to quickly spot malware or phishing.  
+
+---
+
+## 🛠️ Example Use / Scenario
+**Scenario:**  
+- A user receives an email with a suspicious attachment: `invoice2025.exe`.  
+
+**Steps I Took:**  
+1. Saved the file safely (without opening it).  
+2. Uploaded it to [VirusTotal](https://www.virustotal.com).  
+3. Reviewed results across 60+ antivirus engines.  
+4. Saw several flagged it as malicious.  
+5. Decided actions: block sender, warn user, update incident report.  
+
+---
+
+## ✅ Skills Learned
+- How to safely check files/links without risk.  
+- Reading and interpreting VirusTotal reports.  
+- Applying results in a SOC-style workflow (incident response).  
